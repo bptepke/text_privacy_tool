@@ -1,0 +1,5 @@
+Data Sources:
+For this study, I chose two well known books as text sources. The gutenberg project headers and footers were stripped so that only the authors' writing was analyzed.
+
+Boxcar Children: https://www.gutenberg.org/cache/epub/42796/pg42796.txt
+Common Sense: https://www.gutenberg.org/cache/epub/147/pg147.txt
